@@ -3,7 +3,11 @@ Welcom
 2.
 3.
 Let's start our new project at 10/11/2022
+<<<<<<< HEAD
 Our team in this project is :
 - Ali
 - Asmaa
 - Hussein
+=======
+- Our leader is ZydMohamed
+>>>>>>> c9d0659fd45f97ea55eba54ae0d0b2627fe6a434
